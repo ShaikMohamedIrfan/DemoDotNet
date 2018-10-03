@@ -1,0 +1,10 @@
+d:\SourceCode\Build\bin\LoginWeb.dll
+d:\SourceCode\Build\bin\LoginWeb.pdb
+d:\SourceCode\LoginWeb\obj\Debug\LoginWeb.csprojResolveAssemblyReference.cache
+d:\SourceCode\LoginWeb\obj\Debug\LoginWeb.dll
+d:\SourceCode\LoginWeb\obj\Debug\LoginWeb.pdb
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\Build\bin\LoginWeb.dll
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\Build\bin\LoginWeb.pdb
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\LoginWeb\obj\Debug\LoginWeb.csprojResolveAssemblyReference.cache
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\LoginWeb\obj\Debug\LoginWeb.dll
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\LoginWeb\obj\Debug\LoginWeb.pdb

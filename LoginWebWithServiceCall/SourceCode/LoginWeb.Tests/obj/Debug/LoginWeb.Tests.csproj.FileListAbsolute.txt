@@ -1,0 +1,12 @@
+d:\SourceCode\Build\bin\LoginWeb.Tests.dll.config
+d:\SourceCode\Build\bin\LoginWeb.Tests.dll
+d:\SourceCode\Build\bin\LoginWeb.Tests.pdb
+d:\SourceCode\LoginWeb.Tests\obj\Debug\LoginWeb.Tests.csprojResolveAssemblyReference.cache
+d:\SourceCode\LoginWeb.Tests\obj\Debug\LoginWeb.Tests.dll
+d:\SourceCode\LoginWeb.Tests\obj\Debug\LoginWeb.Tests.pdb
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\Build\bin\LoginWeb.Tests.dll.config
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\Build\bin\LoginWeb.Tests.dll
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\Build\bin\LoginWeb.Tests.pdb
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\LoginWeb.Tests\obj\Debug\LoginWeb.Tests.csprojResolveAssemblyReference.cache
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\LoginWeb.Tests\obj\Debug\LoginWeb.Tests.dll
+E:\LocalDotNetMap\DotNetWebPrivate\LoginWebWithServiceCall\SourceCode\LoginWeb.Tests\obj\Debug\LoginWeb.Tests.pdb
